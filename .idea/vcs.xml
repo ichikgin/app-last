@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Todo-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Todo-App-1.4.5" vcs="Git" />
   </component>
 </project>
